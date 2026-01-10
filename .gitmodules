@@ -1,0 +1,3 @@
+[submodule "Assets"]
+	path = Assets
+	url = https://github.com/neutrino0906/Project-UNO_Assets.git
