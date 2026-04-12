@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
+  - Bloom
   - 
   - 
   - 
@@ -49,6 +49,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1578894761
+    locked: 0
+  - name: UI
+    uniqueID: 1965237263
     locked: 0
   m_RenderingLayers:
   - Default
