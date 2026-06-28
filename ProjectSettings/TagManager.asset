@@ -57,5 +57,8 @@ TagManager:
   - name: UI
     uniqueID: 1965237263
     locked: 0
+  - name: Refraction
+    uniqueID: 3441681373
+    locked: 0
   m_RenderingLayers:
   - Default
